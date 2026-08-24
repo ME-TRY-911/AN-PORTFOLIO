@@ -1,0 +1,6 @@
+{
+  "name": "AN Tech - Portfolio",
+  "description": "Official technology portfolio for AN TECH: Build. Automate. Innovate. Practical web applications, software tools, automation systems, and AI-powered solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
